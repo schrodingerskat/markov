@@ -1,4 +1,4 @@
-from markov.repl import Repl
+from repl import Repl
 
 if __name__ == "__main__":
     repl = Repl()

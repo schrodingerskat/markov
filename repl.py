@@ -5,7 +5,7 @@ import os
 import glob
 import fileinput
 import functools
-from markov import markovstate
+import markovstate
 
 
 def decorator_with_arguments(wrapper):
